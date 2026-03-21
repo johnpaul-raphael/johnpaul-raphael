@@ -1,6 +1,6 @@
 # Hi, I'm Johnpaul Raphael 👋
 
-### Senior Full-Stack Engineer (13yr) → AI Engineer | Java · Spring Boot · AWS · LLMs | Chennai, India
+### Senior Full-Stack Engineer → AI Engineer | Java · Spring Boot · AWS · LLMs | Chennai, India
 
 ---
 
