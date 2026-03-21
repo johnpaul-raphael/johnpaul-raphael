@@ -1,13 +1,14 @@
-
 # Hi, I'm Johnpaul Raphael 👋
 
-### AI Engineer in the Making | Backend Engineer @ Cognizant | Chennai, India
+### Senior Full-Stack Engineer (13yr) → AI Engineer | Java · Spring Boot · AWS · LLMs | Chennai, India
 
 ---
 
 > *"The best time to transition into AI was 2020. The second best time is now."*
 
-I am a backend engineer with hands-on experience in Java and Spring Boot, currently making a deliberate transition into **AI Engineering** — building LLM-powered applications, RAG systems, and Agentic AI workflows.
+I am a **Senior Full-Stack Engineer with 13+ years** of experience in Java, Spring Boot, Angular, AWS, and Microservices — now making a deliberate, strategic transition into **AI Engineering**.
+
+I bring what most AI engineers don't have: **production engineering experience**. I've built chatbots, CI/CD pipelines, multi-threaded systems, and scalable APIs across Finance, Insurance, and Automotive domains. Now I'm applying that foundation to LLM-powered applications, RAG systems, and Agentic AI workflows.
 
 I believe engineers who understand both **systems thinking** and **AI** will define the next decade of software.
 
@@ -38,11 +39,35 @@ I believe engineers who understand both **systems thinking** and **AI** will def
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Backend Foundation (Where I Came From)**
+**Full-Stack Foundation (13 Years of Production Engineering)**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+*Backend*
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-005571?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=postman&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+*Frontend*
+
+![Angular](https://img.shields.io/badge/Angular_13-DD0031?style=flat&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+*Databases*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+
+*DevOps & Cloud*
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
 ---
 
@@ -72,15 +97,16 @@ I am learning in public. Every week, I publish structured notes from my AI engin
 
 ---
 
-## 💼 Why Hire a Backend Engineer Turned AI Engineer?
+## 💼 Why Hire a Senior Engineer Turned AI Engineer?
 
 Most AI engineers can build models. Fewer can build **production AI systems**.
 
-My backend background means I bring:
-- ✅ System design thinking to AI architecture
-- ✅ API design experience for AI service integration
-- ✅ Understanding of reliability, scaling, and observability
-- ✅ Ability to connect AI components to real business systems
+With 13 years shipping software across Finance, Insurance, and Automotive, I bring:
+- ✅ **System design thinking** — Microservices, APIs, distributed systems at scale
+- ✅ **Cloud & DevOps experience** — AWS, Jenkins CI/CD, TDD, code reviews
+- ✅ **Real chatbot delivery** — Built customer-facing bots that reduced manual work in production
+- ✅ **Full-stack breadth** — Java 17, Spring Boot, Angular, PostgreSQL, MongoDB
+- ✅ **Reliability mindset** — I know what breaks in production and how to prevent it
 
 ---
 
