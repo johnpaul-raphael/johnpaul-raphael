@@ -11,6 +11,7 @@ Senior Full-Stack Engineer with 13+ years of production experience in Java, Spri
 ## 🚀 What I'm Building
 
 - **[FaceShare](https://github.com/johnpaul-raphael/face-share)** — Serverless event photo sharing app powered by AWS Rekognition. Automatically matches faces in uploaded photos and delivers them to the right attendees. Built with FastAPI · Next.js 15 · AWS Lambda · DynamoDB · S3 · Rekognition
+- **[IMDB Buddy MCP](https://github.com/johnpaul-raphael/imdb-buddy-mcp)** — MCP server that gives AI assistants real-time access to live movie and TV ratings via TMDB. Built with Python · Model Context Protocol · TMDB API
 - **[AI Engineering Study Notes](https://github.com/johnpaul-raphael/generative-ai-notes)** — Week-by-week public roadmap from ML fundamentals to Agentic AI
 - Learning **LangChain → LangGraph → AutoGen** for multi-agent system design
 - Exploring **Azure OpenAI** and **AWS Bedrock** for enterprise AI deployment
